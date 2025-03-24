@@ -19,7 +19,7 @@ This is a simple web application that translates user input text to Hindi using 
 2. Navigate to the project directory:
 
     ```sh
-    cd c:\Users\john9\OneDrive\Documents\VS Projects\copilot testing\translate-app
+    cd ~YOUR PROJECT PATH~\translate-app
     ```
 
 3. Install the dependencies:
@@ -40,4 +40,13 @@ This is a simple web application that translates user input text to Hindi using 
 
 3. Enter text in the input field and submit the form to see the translated text in Hindi.
 
-## Project Structure
+
+## Dependencies
+
+- `express`: Fast, unopinionated, minimalist web framework for Node.js
+- `body-parser`: Node.js body parsing middleware
+- `google-translate-api-x`: A maintained fork of the original Google Translate API for Node.js
+
+## License
+
+This project is licensed under the MIT License.
